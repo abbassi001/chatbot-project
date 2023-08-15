@@ -15,7 +15,8 @@ import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 
 # ALLOWED_HOSTS=['*']
-ALLOWED_HOSTS = ['existingdomain.com', 'abbassi6601.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
